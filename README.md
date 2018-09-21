@@ -40,6 +40,10 @@ long term.  And employee churn is a very expensive thing.  But don't take it jus
 
 ### Career trajectory
 
+#### How to do it right: mentoring junior engineers at Slack
+
+[![Carly Robinson at Tech Lead UK 2017](mentoring-takeaways.jpg)](http://www.youtube.com/watch?v=qAMJASlrPjM "Mentoring Junior Engineers at Slack")
+
 #### Rethinking the Tech Career Path (What is a Senior Developer?)
 
 [![Randall Koutnik at Tech Lead UK 2017](http://img.youtube.com/vi/yIPbE7BssOs/0.jpg)](http://www.youtube.com/watch?v=yIPbE7BssOs "Rethinking the Tech Career Path (What is a Senior Developer?)")
