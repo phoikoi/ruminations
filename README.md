@@ -38,7 +38,7 @@ long term.  And employee churn is a very expensive thing.  But don't take it jus
 
 How to do it right: [Mentoring junior engineers at Slack](http://www.youtube.com/watch?v=qAMJASlrPjM) (*Carly Robinson at Tech Lead UK 2017*) :tv: **33:46**
 
-[Rethinking the Tech Career Path (What is a Senior Developer?)](http://www.youtube.com/watch?v=yIPbE7BssOs) (*Randall Koutnik at Tech Lead UK 2017*) :tv: **25:04**
+[Rethinking the Tech Career Path](http://www.youtube.com/watch?v=yIPbE7BssOs) ("What is a Senior Developer?") (*Randall Koutnik at Tech Lead UK 2017*) :tv: **25:04**
 
 ### Freelancing
 
