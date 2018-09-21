@@ -5,15 +5,11 @@ PH, 9/20/2018
 
 ## Impostor syndrome
 
-#### Jacob Kaplan-Moss, Keynote, PyCon 2015 (Montreal)
-
-[![Jacob Kaplan-Moss at PyCon 2015](http://img.youtube.com/vi/hIJdFxYlEKE/0.jpg)](http://www.youtube.com/watch?v=hIJdFxYlEKE "Jacob Kaplan-Moss: Keynote, PyCon 2015 (Montreal)")
+:tv: ["I don't deserve to be here"](http://www.youtube.com/watch?v=hIJdFxYlEKE) (*Jacob Kaplan-Moss, Keynote, PyCon 2015*)
 
 ## Helping other developers
 
-#### Sasha Laundy: Your Brain's API: Giving and Getting Technical Help
-
-[![Sasha Laundy at PyCon 2015](http://img.youtube.com/vi/hY14Er6JX2s/0.jpg)](http://www.youtube.com/watch?v=hY14Er6JX2s "Sasha Laundy: Your Brain's API: Giving and Getting Technical Help")
+:tv: [Your Brain's API: Giving and Getting Technical Help](http://www.youtube.com/watch?v=hY14Er6JX2s) (*Sasha Laundy, PyCon 2015*)
 
 ## Company culture
 
@@ -40,13 +36,9 @@ long term.  And employee churn is a very expensive thing.  But don't take it jus
 
 ### Career trajectory
 
-#### How to do it right: mentoring junior engineers at Slack
+:tv: [How to do it right: mentoring junior engineers at Slack](http://www.youtube.com/watch?v=qAMJASlrPjM) (*Carly Robinson at Tech Lead UK 2017*)
 
-[![Carly Robinson at Tech Lead UK 2017](mentoring-takeaways.jpg)](http://www.youtube.com/watch?v=qAMJASlrPjM "Mentoring Junior Engineers at Slack")
-
-#### Rethinking the Tech Career Path (What is a Senior Developer?)
-
-[![Randall Koutnik at Tech Lead UK 2017](http://img.youtube.com/vi/yIPbE7BssOs/0.jpg)](http://www.youtube.com/watch?v=yIPbE7BssOs "Rethinking the Tech Career Path (What is a Senior Developer?)")
+:tv: [Rethinking the Tech Career Path (What is a Senior Developer?)](http://www.youtube.com/watch?v=yIPbE7BssOs) (*Randall Koutnik at Tech Lead UK 2017*)
 
 ### Freelancing
 
