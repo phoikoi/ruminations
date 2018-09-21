@@ -26,7 +26,7 @@ long term.  And employee churn is a very expensive thing.  But don't take it jus
 
 ### Remote work
 
-[![Hint, hint, every company ever.](hinthint.jpg)](https://twitter.com/brian_lovin/status/1040650455502614529)
+[![Hint, hint, every company ever.](img/hinthint.jpg)](https://twitter.com/brian_lovin/status/1040650455502614529)
 
 [Remote work success guide](https://blog.trello.com/remote-work-team-success-guide) (*Trello*)
 
@@ -36,7 +36,7 @@ long term.  And employee churn is a very expensive thing.  But don't take it jus
 
 ### Career trajectory
 
-[How to do it right: mentoring junior engineers at Slack](http://www.youtube.com/watch?v=qAMJASlrPjM) (*Carly Robinson at Tech Lead UK 2017*) :tv: **33:46**
+How to do it right: [Mentoring junior engineers at Slack](http://www.youtube.com/watch?v=qAMJASlrPjM) (*Carly Robinson at Tech Lead UK 2017*) :tv: **33:46**
 
 [Rethinking the Tech Career Path (What is a Senior Developer?)](http://www.youtube.com/watch?v=yIPbE7BssOs) (*Randall Koutnik at Tech Lead UK 2017*) :tv: **25:04**
 
