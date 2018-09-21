@@ -5,11 +5,11 @@ PH, 9/20/2018
 
 ## Impostor syndrome
 
-:tv: ["I don't deserve to be here"](http://www.youtube.com/watch?v=hIJdFxYlEKE) (*Jacob Kaplan-Moss, Keynote, PyCon 2015*)
+["I don't deserve to be here"](http://www.youtube.com/watch?v=hIJdFxYlEKE) (*Jacob Kaplan-Moss, Keynote, PyCon 2015*) :tv: **35:50**
 
 ## Helping other developers
 
-:tv: [Your Brain's API: Giving and Getting Technical Help](http://www.youtube.com/watch?v=hY14Er6JX2s) (*Sasha Laundy, PyCon 2015*)
+[Your Brain's API: Giving and Getting Technical Help](http://www.youtube.com/watch?v=hY14Er6JX2s) (*Sasha Laundy, PyCon 2015*) :tv: **31:00**
 
 ## Company culture
 
@@ -36,9 +36,9 @@ long term.  And employee churn is a very expensive thing.  But don't take it jus
 
 ### Career trajectory
 
-:tv: [How to do it right: mentoring junior engineers at Slack](http://www.youtube.com/watch?v=qAMJASlrPjM) (*Carly Robinson at Tech Lead UK 2017*)
+[How to do it right: mentoring junior engineers at Slack](http://www.youtube.com/watch?v=qAMJASlrPjM) (*Carly Robinson at Tech Lead UK 2017*) :tv: **33:46**
 
-:tv: [Rethinking the Tech Career Path (What is a Senior Developer?)](http://www.youtube.com/watch?v=yIPbE7BssOs) (*Randall Koutnik at Tech Lead UK 2017*)
+[Rethinking the Tech Career Path (What is a Senior Developer?)](http://www.youtube.com/watch?v=yIPbE7BssOs) (*Randall Koutnik at Tech Lead UK 2017*) :tv: **25:04**
 
 ### Freelancing
 
