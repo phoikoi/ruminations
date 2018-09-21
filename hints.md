@@ -6,4 +6,4 @@ Various links to hints on dev topics
 
 [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out) (*Mary Rose Cook*)
 
-:tv: [Advanced Git](https://www.youtube.com/watch?v=4EOZvow1mk4) (*David Baumgold, PyCon 2015*)
+:tv: [Advanced Git](https://www.youtube.com/watch?v=4EOZvow1mk4) (*David Baumgold, PyCon 2015, 29:16*)
